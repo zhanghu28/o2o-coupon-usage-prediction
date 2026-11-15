@@ -35,7 +35,6 @@ o2o_coupon_project/
 ├── 一键运行.py                ← 一条命令跑完全流程（新手用这个）
 ├── requirements.txt           ← 需要装的 Python 库
 ├── README.md                  ← 本文件：项目总览
-├── 说明书/傻瓜式说明书.md      ← ★ 手把手操作手册（不会 Python 也能跑）
 ├── 论文/小论文.md              ← 课程小论文（Markdown 源稿）
 ├── 论文/O2O优惠券核销预测_小论文.docx  ← 交作业用的 Word 版
 ├── src/                       ← 全部代码，按流程编号
