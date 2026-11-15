@@ -1,0 +1,14 @@
+# 数据（66MB，不传 GitHub，用 src/00_下载数据.py 一键下回来）
+data/raw/*.csv
+data/clean/*.pkl
+data/features/*.pkl
+# 运行产物
+outputs/model/*.txt
+outputs/model/*.json
+outputs/model/*.joblib
+outputs/submission.csv
+# 单次运行生成的大文件
+outputs/tables/07_验证集预测明细.csv
+outputs/tables/09_券级AUC_*.csv
+__pycache__/
+.ipynb_checkpoints/
