@@ -1,0 +1,8 @@
+表,行数,列数,说明
+事件总表 events,1716990,14,清洗后流水账
+①用户画像 user_dim,392743,5,按 user_id 聚合
+②商家画像 merchant_dim,3099,6,按 merchant_id 聚合
+③券画像 coupon_dim,4483,5,按 coupon_id 聚合
+④用户×商家 interaction,633751,4,复合主键聚合
+领券样本 samples,1015389,14,建模对象
+集成宽表 wide,1015389,31,4 表左连接结果
